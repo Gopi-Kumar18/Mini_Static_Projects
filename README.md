@@ -7,7 +7,7 @@ Click on the links below to access each project:
 2. [BMI Calculator](https://gopi-k18.github.io/Mini_Static_Projects/BMI_Calculator/)
 3. [Loan Calculator](https://gopi-k18.github.io/Mini_Static_Projects/LoanCalculator/)
 4. [Palindrome Checker](https://gopi-k18.github.io/Mini_Static_Projects/PalindromeChecker/)
-5. [Palindrome Checker](https://gopi-k18.github.io/Mini_Static_Projects/DateAndTimeWidget/)
+5. [Date And Time Widget](https://gopi-k18.github.io/Mini_Static_Projects/DateAndTimeWidget/)
 
 Feel free to explore and contribute! 😊  
 
